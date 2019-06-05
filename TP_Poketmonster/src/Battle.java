@@ -19,7 +19,7 @@ public class Battle {
 		player_list[1] = p2;
 	}
 	
-	
+	// 깃 연습을 위해 바꿔 볼게요
 	public int getTurn() {
 		return turn;
 	}
