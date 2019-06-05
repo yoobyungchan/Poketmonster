@@ -6,7 +6,7 @@ public class Skill {
 	private int power;
 	
 	
-	//积己磊
+	//积己磊 标 楷嚼
 	public Skill() {}
 	public Skill(String name) {
 		this.name = name;
